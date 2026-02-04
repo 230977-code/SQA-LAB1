@@ -1,0 +1,15 @@
+TestCases >
+Login_TestCases.bxt
+1 Test Case ID: TC_001
+2 Title: Verify login with valid credentials 2
+3 Precondition: User is registered 3
+Steps: 
+
+1. Open login page
+
+2 Enter valid username
+3 Enter valid password
+8  Click Login
+
+9 Expected Result:
+10- User should be logged in successfully
